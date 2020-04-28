@@ -1,0 +1,5 @@
+hostname,ip,username,password,secret,device_type,ntp
+sw1,10.100.0.11,cisco,cisco,cisco,cisco_ios,10.200.0.1
+sw2,10.100.0.12,cisco,cisco,cisco,cisco_ios,10.200.0.1
+gw2,10.100.0.20,cisco,cisco,cisco,cisco_ios,10.200.0.1
+sw1,10.100.0.60,cisco,cisco,cisco,cisco_ios,10.200.0.1
